@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JitHoon/js-test/issues"
   },
-  "homepage": "https://github.com/JitHoon/js-test#readme"
+  "homepage": "https://github.com/JitHoon/js-test#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
 }
