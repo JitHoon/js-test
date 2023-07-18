@@ -1,6 +1,6 @@
 const imgDiv = document.querySelector('.imgDiv');
-
 createImg('https://news.samsungdisplay.com/wp-content/uploads/2018/08/8.jpg');
+
 
 function createImg(url) {
   const img = document.createElement('img');
@@ -18,3 +18,4 @@ function showImg(img) {
   imgDiv.innerHTML = '';
 	imgDiv.append(img);
 };
+
